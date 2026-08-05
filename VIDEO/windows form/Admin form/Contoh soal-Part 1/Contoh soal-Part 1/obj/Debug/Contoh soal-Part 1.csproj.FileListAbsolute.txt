@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\bin\Debug\Contoh soal-Part 1.exe.config
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\bin\Debug\Contoh soal-Part 1.exe
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\bin\Debug\Contoh soal-Part 1.pdb
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh soal-Part 1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh_soal_Part_1.Form1Login.resources
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh_soal_Part_1.Form2Register.resources
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh_soal_Part_1.Form3Dashboard.resources
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh_soal_Part_1.Properties.Resources.resources
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh soal-Part 1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh soal-Part 1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh soal-Part 1.exe
+C:\Users\student\source\repos\Contoh soal-Part 1\Contoh soal-Part 1\obj\Debug\Contoh soal-Part 1.pdb
