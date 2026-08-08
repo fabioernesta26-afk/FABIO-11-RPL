@@ -1,0 +1,10 @@
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\bin\Debug\Shopee.exe.config
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\bin\Debug\Shopee.exe
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\bin\Debug\Shopee.pdb
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.csproj.AssemblyReference.cache
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.Form1.resources
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.Properties.Resources.resources
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.csproj.GenerateResource.cache
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.csproj.CoreCompileInputs.cache
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.exe
+C:\Users\FARIDA_PC\Downloads\FABIO-11-RPL\Tugas Kelas\Shopee\Shopee\obj\Debug\Shopee.pdb
